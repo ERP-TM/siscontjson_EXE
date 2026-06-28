@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  siscont-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ERPSiscontJson
+    ports:
+      - "9804:9804"
+    volumes:
+      - .:/app  # Hot reload Sincroniza los archivos en el contenedor
+    env_file:
+      - .env.docker  # <--- Esta es la clave
+    environment:
+      - LC_ALL=C.UTF-8
+      - LANG=C.UTF-8
+    extra_hosts:
+      - "host.docker.internal:host-gateway"

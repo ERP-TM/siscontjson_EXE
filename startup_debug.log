@@ -1,0 +1,37 @@
+2026-06-28 08:08:33,786 [INFO] ============================================================
+2026-06-28 08:08:33,786 [INFO] DIAGNÓSTICO DE ENTORNO — exportJson
+2026-06-28 08:08:33,786 [INFO] ============================================================
+2026-06-28 08:08:33,787 [INFO] Modo frozen (exe)  : False
+2026-06-28 08:08:33,787 [INFO] sys.executable     : /home/niurka/Proyectos-TM/siscont_json_exe/venv/bin/python
+2026-06-28 08:08:33,787 [INFO] sys._MEIPASS       : N/A (modo desarrollo)
+2026-06-28 08:08:33,787 [INFO] Python version     : 3.13.5 (main, May  5 2026, 21:05:52) [GCC 14.2.0]
+2026-06-28 08:08:33,787 [INFO] CWD actual         : /home/niurka/Proyectos-TM/siscont_json_exe
+2026-06-28 08:08:33,788 [INFO] EXE DIR            : /home/niurka/Proyectos-TM/siscont_json_exe
+2026-06-28 08:08:33,788 [INFO] Log generado en    : /home/niurka/Proyectos-TM/siscont_json_exe/startup_debug.log
+2026-06-28 08:08:33,788 [INFO] ── Verificando permisos de escritura ──
+2026-06-28 08:08:33,788 [INFO]   ✔ Escritura OK    : /home/niurka/Proyectos-TM/siscont_json_exe
+2026-06-28 08:08:33,789 [INFO]   ✔ Escritura OK    : /home/niurka/Proyectos-TM/siscont_json_exe
+2026-06-28 08:08:33,790 [INFO] ── Buscando archivos .env ──
+2026-06-28 08:08:33,790 [INFO]   .env en /home/niurka/Proyectos-TM/siscont_json_exe: ✔ EXISTE
+2026-06-28 08:08:33,790 [INFO]   .env en /home/niurka/Proyectos-TM/siscont_json_exe: ✔ EXISTE
+2026-06-28 08:08:33,791 [INFO]   .env.local en /home/niurka/Proyectos-TM/siscont_json_exe: ✘ NO EXISTE
+2026-06-28 08:08:33,791 [INFO]   .env.local en /home/niurka/Proyectos-TM/siscont_json_exe: ✘ NO EXISTE
+2026-06-28 08:08:33,792 [INFO]   .env.production en /home/niurka/Proyectos-TM/siscont_json_exe: ✘ NO EXISTE
+2026-06-28 08:08:33,795 [INFO]   .env.production en /home/niurka/Proyectos-TM/siscont_json_exe: ✘ NO EXISTE
+2026-06-28 08:08:33,795 [INFO] ── Variables de entorno ──
+2026-06-28 08:08:33,796 [INFO]   NO_PROXY            : (no definida)
+2026-06-28 08:08:33,796 [INFO]   no_proxy            : (no definida)
+2026-06-28 08:08:33,796 [INFO]   ENV_FILE            : (no definida)
+2026-06-28 08:08:33,800 [INFO]   JSON_OUTPUT_DIR     : (no definida)
+2026-06-28 08:08:33,802 [INFO]   API_BASE_URL        : (no definida)
+2026-06-28 08:08:33,804 [INFO]   PORT                : (no definida)
+2026-06-28 08:08:33,805 [INFO]   DB_DRIVER           : (no definida)
+2026-06-28 08:08:33,808 [INFO]   STORAGE_SECRET      : (no definida)
+2026-06-28 08:08:33,808 [INFO] ── Verificando carpeta .nicegui ──
+2026-06-28 08:08:33,810 [INFO]   .nicegui existe   : True
+2026-06-28 08:08:33,812 [INFO]   .nicegui contenido: ['storage-user-28d22026-1b10-4296-a60e-99542a841fb2.json']
+2026-06-28 08:08:34,080 [INFO]   Espacio libre     : 715217 MB
+2026-06-28 08:08:34,080 [INFO]   OS / Plataforma   : linux — posix
+2026-06-28 08:08:34,080 [INFO] ============================================================
+2026-06-28 08:08:34,082 [INFO] Log completo guardado en: /home/niurka/Proyectos-TM/siscont_json_exe/startup_debug.log
+2026-06-28 08:08:34,082 [INFO] ============================================================
